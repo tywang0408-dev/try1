@@ -6,8 +6,8 @@ import { SectionType } from './types';
 export const IMAGES = {
   HERO_BG: "https://picsum.photos/id/1050/1920/1080",
   OVERVIEW_GROWTH: "https://storage.googleapis.com/zhuboquanyi/%E6%88%90%E9%95%BF%E4%BD%93%E7%B3%BB.jpeg",
-  OVERVIEW_BENEFITS: "https://picsum.photos/id/1070/800/600",
-  OVERVIEW_ALLOC: "https://picsum.photos/id/1071/800/600",
+  OVERVIEW_BENEFITS: "https://storage.googleapis.com/zhuboquanyi/%E6%9D%83%E7%9B%8A%E4%BD%93%E7%B3%BB.jpeg",
+  OVERVIEW_ALLOC: "https://storage.googleapis.com/zhuboquanyi/%E6%9D%83%E7%9B%8A%E5%88%86%E9%85%8D.jpeg",
   // Updated to Vertical Images for Growth
   GROWTH_1: "https://picsum.photos/id/1059/800/1200", 
   GROWTH_2: "https://picsum.photos/id/1060/800/1200",
