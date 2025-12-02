@@ -5,7 +5,7 @@ import { SectionType } from './types';
 // Images
 export const IMAGES = {
   HERO_BG: "https://picsum.photos/id/1050/1920/1080",
-  OVERVIEW_GROWTH: "https://picsum.photos/id/1069/800/600",
+  OVERVIEW_GROWTH: "https://storage.googleapis.com/zhuboquanyi/%E6%88%90%E9%95%BF%E4%BD%93%E7%B3%BB.jpeg",
   OVERVIEW_BENEFITS: "https://picsum.photos/id/1070/800/600",
   OVERVIEW_ALLOC: "https://picsum.photos/id/1071/800/600",
   // Updated to Vertical Images for Growth
